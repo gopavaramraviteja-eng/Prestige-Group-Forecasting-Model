@@ -1,0 +1,73 @@
+project_id,milestone_name,planned_date,actual_date,variance_days
+PRJ001,Foundation Complete,2026-02-05,2026-06-30,145.0
+PRJ001,Superstructure Complete,2027-03-20,,
+PRJ001,Finishing Complete,2028-01-20,,
+PRJ001,Handover,2028-06-21,,
+PRJ002,Foundation Complete,2026-08-29,,
+PRJ002,Superstructure Complete,2027-11-28,,
+PRJ002,Finishing Complete,2028-11-04,,
+PRJ002,Handover,2029-04-24,,
+PRJ003,Foundation Complete,2026-01-27,2026-06-09,133.0
+PRJ003,Superstructure Complete,2027-05-10,,
+PRJ003,Finishing Complete,2028-04-25,,
+PRJ003,Handover,2028-10-18,,
+PRJ004,Foundation Complete,2025-09-12,2026-02-06,147.0
+PRJ004,Superstructure Complete,2026-08-26,,
+PRJ004,Finishing Complete,2027-05-14,,
+PRJ004,Handover,2027-09-22,,
+PRJ005,Foundation Complete,2024-02-01,2024-06-04,124.0
+PRJ005,Superstructure Complete,2025-03-27,2025-09-17,174.0
+PRJ005,Finishing Complete,2026-02-05,,
+PRJ005,Handover,2026-07-13,,
+PRJ006,Foundation Complete,2022-01-01,2022-04-12,101.0
+PRJ006,Superstructure Complete,2023-02-25,2023-06-06,101.0
+PRJ006,Finishing Complete,2024-01-06,2024-05-23,138.0
+PRJ006,Handover,2024-06-12,2025-05-02,324.0
+PRJ007,Foundation Complete,2023-11-02,2024-03-21,140.0
+PRJ007,Superstructure Complete,2025-02-24,2025-07-18,144.0
+PRJ007,Finishing Complete,2026-02-19,2026-09-04,197.0
+PRJ007,Handover,2026-08-18,,
+PRJ008,Foundation Complete,2024-05-20,2024-11-08,172.0
+PRJ008,Superstructure Complete,2025-09-12,2026-05-07,237.0
+PRJ008,Finishing Complete,2026-09-07,,
+PRJ008,Handover,2027-03-06,,
+PRJ009,Foundation Complete,2024-04-25,2024-08-02,99.0
+PRJ009,Superstructure Complete,2025-05-14,2025-08-08,86.0
+PRJ009,Finishing Complete,2026-02-26,2026-06-24,118.0
+PRJ009,Handover,2026-07-20,,
+PRJ010,Foundation Complete,2023-07-19,2023-11-12,116.0
+PRJ010,Superstructure Complete,2024-07-25,2024-11-27,125.0
+PRJ010,Finishing Complete,2025-04-30,2025-10-10,163.0
+PRJ010,Handover,2025-09-17,2026-08-11,328.0
+PRJ011,Foundation Complete,2024-04-04,2024-06-22,79.0
+PRJ011,Superstructure Complete,2025-03-30,2025-05-27,58.0
+PRJ011,Finishing Complete,2025-12-25,2026-03-14,79.0
+PRJ011,Handover,2026-05-09,,
+PRJ012,Foundation Complete,2026-10-21,,
+PRJ012,Superstructure Complete,2027-12-15,,
+PRJ012,Finishing Complete,2028-10-25,,
+PRJ012,Handover,2029-04-01,,
+PRJ013,Foundation Complete,2022-10-31,2023-03-09,129.0
+PRJ013,Superstructure Complete,2023-10-26,2024-03-29,155.0
+PRJ013,Finishing Complete,2024-07-22,2025-02-21,214.0
+PRJ013,Handover,2024-12-04,2026-01-13,405.0
+PRJ014,Foundation Complete,2025-08-14,2026-02-04,174.0
+PRJ014,Superstructure Complete,2026-11-13,,
+PRJ014,Finishing Complete,2027-10-21,,
+PRJ014,Handover,2028-04-09,,
+PRJ015,Foundation Complete,2023-10-07,2024-01-27,112.0
+PRJ015,Superstructure Complete,2024-08-26,2024-12-30,126.0
+PRJ015,Finishing Complete,2025-04-26,2025-10-13,170.0
+PRJ015,Handover,2025-08-26,2026-06-20,298.0
+PRJ016,Foundation Complete,2023-07-15,2024-01-20,189.0
+PRJ016,Superstructure Complete,2024-10-13,2025-07-14,274.0
+PRJ016,Finishing Complete,2025-09-20,,
+PRJ016,Handover,2026-03-10,,
+PRJ017,Foundation Complete,2024-11-03,2025-05-09,187.0
+PRJ017,Superstructure Complete,2025-12-28,,
+PRJ017,Finishing Complete,2026-11-08,,
+PRJ017,Handover,2027-04-15,,
+PRJ018,Foundation Complete,2025-09-29,2026-05-13,226.0
+PRJ018,Superstructure Complete,2027-02-15,,
+PRJ018,Finishing Complete,2028-02-28,,
+PRJ018,Handover,2028-09-04,,

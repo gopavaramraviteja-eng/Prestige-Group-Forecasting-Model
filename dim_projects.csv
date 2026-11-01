@@ -1,0 +1,19 @@
+project_id,project_name,city,locality,project_type,total_units,avg_unit_size_sqft,saleable_area_sqft,total_towers,planned_start_date,actual_start_date,planned_duration_months,planned_completion_date,approved_budget_cr,cost_per_sqft_inr,overrun_factor,mgmt_quality_factor,status_as_of_today,revised_budget_cr
+PRJ001,Prestige Skyline,Bengaluru,Whitefield,High-rise Apartments,962,1296,1246752,7,2025-08-16,2025-09-05,34,2028-06-01,374.85,3006.58,1.22,0.851,Ongoing,457.317
+PRJ002,Prestige Emerald Woods,Bengaluru,RR Nagar,High-rise Apartments,622,1096,681712,2,2026-03-01,2026-03-11,38,2029-04-14,200.22,2937.02,1.155,0.835,Ongoing,231.254
+PRJ003,Prestige Metro Heights,Bengaluru,RR Nagar,Premium Apartments,1019,1082,1102558,7,2025-07-18,2025-08-05,39,2028-09-30,282.35,2560.88,1.054,0.932,Ongoing,297.597
+PRJ004,Prestige Lakeview,Bengaluru,Electronic City,High-rise Apartments,195,1544,301080,3,2025-04-09,2025-05-05,29,2027-08-27,92.38,3068.19,1.131,0.865,Ongoing,104.482
+PRJ005,Prestige Palm Meadows,Bengaluru,Electronic City,Premium Apartments,286,1214,347204,7,2023-08-07,2023-08-28,35,2026-06-22,103.15,2970.76,1.225,0.913,Ongoing,126.359
+PRJ006,Prestige Green Valley,Bengaluru,RR Nagar,Premium Apartments,452,1459,659468,6,2021-07-06,2021-07-28,35,2024-05-21,155.63,2359.88,1.197,1.007,Completed,186.289
+PRJ007,Prestige Silver Oaks,Chennai,Pallavaram,Premium Apartments,631,979,617749,5,2023-04-12,2023-05-06,40,2026-07-25,138.92,2248.89,1.214,0.972,Ongoing,168.649
+PRJ008,Prestige Golden Crest,Chennai,Pallavaram,Premium Apartments,731,1585,1158635,4,2023-11-18,2023-11-22,40,2027-03-02,247.96,2140.06,1.239,0.876,Ongoing,307.222
+PRJ009,Prestige Botanica,Chennai,Sholinganallur,High-rise Apartments,211,1684,355324,6,2023-11-04,2023-12-03,32,2026-06-21,105.19,2960.49,1.114,1.015,Ongoing,117.182
+PRJ010,Prestige Willow Park,Hyderabad,Gachibowli,High-rise Apartments,325,1034,336050,5,2023-02-04,2023-03-02,31,2025-08-22,102.13,3039.07,1.043,0.987,Completed,106.522
+PRJ011,Prestige Horizon Towers,Hyderabad,Kokapet,High-rise Apartments,618,1141,705138,1,2023-11-15,2023-11-21,30,2026-05-03,205.86,2919.37,1.269,1.038,Ongoing,261.236
+PRJ012,Prestige Falcon Residency,Hyderabad,Kokapet,High-rise Apartments,884,1561,1379924,3,2026-04-27,2026-05-17,35,2029-03-12,429.48,3112.38,1.027,1.037,Ongoing,441.076
+PRJ013,Prestige Orchid Grove,Pune,Hinjewadi,High-rise Apartments,628,1527,958956,7,2022-06-18,2022-06-18,30,2024-12-04,273.59,2852.99,1.201,0.924,Completed,328.582
+PRJ014,Prestige Maple Heights,Pune,Hinjewadi,Premium Apartments,808,1025,828200,4,2025-02-23,2025-02-24,38,2028-04-08,183.01,2209.78,1.092,0.855,Ongoing,199.847
+PRJ015,Prestige Sunrise Vista,Mumbai,Chembur,Premium Apartments,258,1584,408672,5,2023-05-23,2023-06-08,27,2025-08-10,134.97,3302.66,1.006,1.05,Completed,135.78
+PRJ016,Prestige Cedar Springs,Mumbai,Mulund,Premium Apartments,656,1001,656656,5,2023-01-25,2023-01-25,38,2026-03-10,179.44,2732.66,1.133,0.884,Ongoing,203.306
+PRJ017,Prestige Ivory County,Kochi,Vyttila,Premium Apartments,498,1629,811242,2,2024-05-17,2024-05-30,35,2027-04-02,172.64,2128.1,1.155,0.846,Ongoing,199.399
+PRJ018,Prestige Regal Enclave,Kochi,Vyttila,High-rise Apartments,855,1145,978975,8,2025-03-08,2025-03-24,42,2028-08-19,298.11,3045.09,1.064,0.829,Ongoing,317.189
